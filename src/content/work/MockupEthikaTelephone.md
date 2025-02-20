@@ -24,4 +24,4 @@ Le choix du design repose sur une **typographie claire et impactante**, une pale
 
 Ce projet illustre l’importance du **marketing digital et du design immersif** dans la construction d’une **identité visuelle forte et adaptée à chaque cible**, combinant **stratégie de contenu, ergonomie et branding efficace**.  
 
-**[Découvrez la Recommandation de communication numérique entière ici](/src/content/work/RecommandationStrategieNumerique.pdf)**
+**[Découvrez la Recommandation de communication numérique entière ici](/public/components/RecommandationStrategieNumerique.pdf)**

@@ -20,4 +20,4 @@ Le **logo de la CSM Esport** est intégré de manière visible, et un espace est
 
 Ce design a été minutieusement élaboré pour capturer l’essence de **Jett** tout en respectant la **charte graphique** de l’équipe **CSM Esport**.  
 
-**[Découvrez toutes les affiches ici](/src/content/work/CSMRoster.pdf)**  
+**[Découvrez toutes les affiches ici](/public/components/CSMRoster.pdf)**  

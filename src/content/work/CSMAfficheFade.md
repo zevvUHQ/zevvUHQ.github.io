@@ -20,4 +20,4 @@ Le **logo de la CSM Esport** est clairement visible, et un espace est prévu en 
 
 Le design a été soigneusement pensé pour capturer l’essence de **Fade** tout en respectant la **charte graphique** de l’équipe **CSM Esport**.  
 
-**[Découvrez toutes les affiches ici](/src/content/work/CSMRoster.pdf)**  
+**[Découvrez toutes les affiches ici](/public/components/CSMRoster.pdf)**  

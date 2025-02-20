@@ -18,4 +18,4 @@ Ce site web a été conçu après une étude des recherches en ligne sur la mode
 
 Le mockup du site est présenté sur un PC, mettant en avant un design épuré et une navigation fluide, optimisée pour une expérience utilisateur immersive. Ce projet illustre l’importance de l’analyse des tendances pour adapter le web design aux besoins d’un marché spécifique.  
 
-**[Découvrez la Recommandation de communication numérique entière ici](/src/content/work/RecommandationStrategieNumerique.pdf)**
+**[Découvrez la Recommandation de communication numérique entière ici](/public/components/RecommandationStrategieNumerique.pdf)**

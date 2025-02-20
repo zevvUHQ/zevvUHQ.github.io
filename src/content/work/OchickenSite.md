@@ -22,4 +22,4 @@ Ce site web a été pensé pour satisfaire les amateurs de poulet tout en améli
 
 🍗 **Découvrez OChicken sous un nouveau jour !** 🍗  
 
-📥 **[Découvrez le visuel du site ici](/src/content/work/OchickenSite.pdf)**
+📥 **[Découvrez le visuel du site ici](/public/components/OchickenSite.pdf)**

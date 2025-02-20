@@ -20,4 +20,4 @@ Le **logo de la CSM Esport** est positionné de manière visible, tandis que la 
 
 Le design a été soigneusement ajusté pour offrir une **mise en valeur du personnage**, tout en maintenant une **harmonie visuelle** avec les éléments graphiques et la **charte de l’équipe CSM Esport**.  
 
-**[Découvrez toutes les affiches ici](/src/content/work/CSMRoster.pdf)**
+**[Découvrez toutes les affiches ici](/public/components/CSMRoster.pdf)**

@@ -18,4 +18,4 @@ Ce projet s’inscrit dans la continuité d’un travail précédent, où j’av
 
 L’utilisation de mockups est essentielle pour une **présentation client efficace**, car elle offre une projection réaliste du rendu final et permet d’effectuer des ajustements avant la phase de développement. Ce type de support est un atout majeur pour **valider les choix graphiques**, fluidifier la communication avec les parties prenantes et assurer une expérience utilisateur optimisée.  
 
-**[Découvrez la Recommandation de communication numérique entière ici](/src/content/work/RecommandationStrategieNumerique.pdf)**
+**[Découvrez la Recommandation de communication numérique entière ici](/public/components/RecommandationStrategieNumerique.pdf)**

@@ -20,4 +20,4 @@ Chaque élément du logo a été conçu pour **refléter** l’esprit du cinéma
 
 Le logo incarne l'**âme du cinéma Utopia**, et il a été créé pour accompagner le **cinéma dans son évolution**, tout en **respectant ses racines culturelles**.  
 
-**[Découvrez la charte graphique entière ici](/src/content/work/UtopiaPDF.pdf)**
+**[Découvrez la charte graphique entière ici](/public/components/UtopiaPDF.pdf)**

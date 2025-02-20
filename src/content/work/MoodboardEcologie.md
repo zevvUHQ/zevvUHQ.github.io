@@ -28,4 +28,4 @@ L’ensemble de ces créations s’intègre dans une **démarche de branding coh
 
 L’identité visuelle joue un rôle clé dans la perception d’une marque, et cette moodboard constitue une première pierre essentielle à son positionnement.  
 
-**[Découvrez la Recommandation de communication numérique entière ici](/src/content/work/RecommandationStrategieNumerique.pdf)**
+**[Découvrez la Recommandation de communication numérique entière ici](/public/components/RecommandationStrategieNumerique.pdf)**

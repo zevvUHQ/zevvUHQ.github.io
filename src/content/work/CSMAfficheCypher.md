@@ -20,4 +20,4 @@ Le **logo de la CSM Esport** est positionné de manière visible, avec un espace
 
 Le design a été méticuleusement travaillé pour s'assurer qu'il reflète l’essence du personnage **Cypher** tout en respectant la **charte de l’équipe CSM Esport**.  
 
-**[Découvrez toutes les affiches ici](/public/components/CSMRoster.pdf)**  
+**[Découvrez toutes les affiches ici](/components/CSMRoster.pdf)**  

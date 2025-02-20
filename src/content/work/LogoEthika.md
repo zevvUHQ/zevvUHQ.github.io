@@ -23,4 +23,4 @@ Cette sobriété visuelle est le fruit d’une **analyse approfondie des tendanc
 
 Ce travail de conception met en avant l’idée qu’un **logo efficace ne repose pas sur la complexité**, mais sur la **force du concept et la clarté du message visuel**. Grâce à cette approche minimaliste, Ethika peut véhiculer immédiatement son positionnement et son engagement auprès de son public.  
 
-**[Découvrez la Recommandation de communication numérique entière ici](/public/components/RecommandationStrategieNumerique.pdf)**
+**[Découvrez la Recommandation de communication numérique entière ici](/components/RecommandationStrategieNumerique.pdf)**

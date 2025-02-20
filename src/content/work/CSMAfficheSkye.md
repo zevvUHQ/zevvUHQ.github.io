@@ -20,4 +20,4 @@ Le **logo de la CSM Esport** est bien visible, et un espace est prévu en bas à
 
 Le design a été soigneusement travaillé pour mettre en valeur **Skye** tout en respectant la **charte graphique** de l’équipe **CSM Esport**.  
 
-**[Découvrez toutes les affiches ici](/public/components/CSMRoster.pdf)**  
+**[Découvrez toutes les affiches ici](/components/CSMRoster.pdf)**  

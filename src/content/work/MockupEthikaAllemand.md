@@ -20,4 +20,4 @@ Cette affiche a été développée pour **Ethika** après une **étude approfond
 
 Le **mockup** a été réalisé en intégrant l’affiche dans un **environnement urbain réaliste**, placé sur un **support publicitaire extérieur** pour simuler son rendu final en situation réelle. L’intégration s’appuie sur un **travail précis des ombres et des lumières**, une **gestion fine de la perspective** et une **harmonisation des textures** afin d’assurer un rendu **cohérent et immersif**. Cette approche permet d’évaluer l’efficacité visuelle de l’affiche avant son impression, en testant son **lisibilité, son impact et son adaptation au contexte urbain**.  
 
-**[Découvrez la Recommandation de communication numérique entière ici](/public/components/RecommandationStrategieNumerique.pdf)**
+**[Découvrez la Recommandation de communication numérique entière ici](/components/RecommandationStrategieNumerique.pdf)**

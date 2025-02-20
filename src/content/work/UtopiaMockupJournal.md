@@ -20,4 +20,4 @@ Le mockup a été soigneusement créé pour **placer le logo dans un cadre authe
 
 Ce processus fait partie de la réflexion pour garantir que l'**identité visuelle** du cinéma **Utopia** soit **adaptée** à différents supports, tout en restant cohérente et pertinente.  
 
-**[Découvrez la charte graphique entière ici](/public/components/UtopiaPDF.pdf)**
+**[Découvrez la charte graphique entière ici](/components/UtopiaPDF.pdf)**

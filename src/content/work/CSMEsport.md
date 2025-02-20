@@ -20,4 +20,4 @@ Ce roster académique met en lumière la diversité des personnages, avec leurs 
 
 Ce visuel est une présentation des personnages du roster **CSM Esport**, mis en valeur pour leurs capacités respectives tout en mettant en avant l’esprit d’équipe et la stratégie de **Valorant**.  
 
-**[Découvrez toutes les affiches ici](/public/components/CSMRoster.pdf)**  
+**[Découvrez toutes les affiches ici](/components/CSMRoster.pdf)**  

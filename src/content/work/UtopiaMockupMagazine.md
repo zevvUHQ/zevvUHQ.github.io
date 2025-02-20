@@ -20,4 +20,4 @@ Le mockup a été soigneusement élaboré pour reproduire un **réalisme graphiq
 
 Ce procédé aide à confirmer que le logo reste cohérent avec les valeurs et l'image du cinéma **Utopia**, tout en vérifiant sa pertinence dans un **contexte d'édition**.  
 
-**[Découvrez la charte graphique entière ici](/public/components/UtopiaPDF.pdf)**
+**[Découvrez la charte graphique entière ici](/components/UtopiaPDF.pdf)**

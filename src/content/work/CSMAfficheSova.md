@@ -20,4 +20,4 @@ Le **logo de la CSM Esport** est mis en valeur, tandis que l'espace en bas à dr
 
 Le design a été soigné pour mettre en avant **Sova** tout en maintenant l'équilibre avec les éléments visuels et la **charte de l’équipe CSM Esport**.  
 
-**[Découvrez toutes les affiches ici](/public/components/CSMRoster.pdf)**  
+**[Découvrez toutes les affiches ici](/components/CSMRoster.pdf)**  

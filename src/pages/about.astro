@@ -1,0 +1,120 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+---
+
+<BaseLayout title="A propos | Evan Zivic" description="A propos de Evan Zivic">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero
+				title="A propos"
+				tagline="Vous souhaitez me découvrir ? Lisez en plus sur moi ci-dessous :)"
+			>
+				<img
+					width="1553"
+					height="873"
+					src="/assets/at-work.png"
+					alt="Photo de Evan Zivic"
+				/>
+			</Hero>
+
+			<section>
+				<h2 class="section-title">Background</h2>
+				<div class="content">
+					<p>
+						Je suis un étudiant passionné par la <strong>création audiovisuelle</strong> et la <strong>gestion de communautés</strong>. Mon ambition est de concevoir des projets qui suscitent des réflexions et renforcent les liens sociaux. 
+						Curieux et engagé, je m’efforce de fédérer différents publics autour de concepts originaux, tout en favorisant les échanges et l’implication collective à travers mes créations.
+					</p>
+				</div>
+			</section>
+			
+			<section>
+				<h2 class="section-title">Education</h2>
+				<div class="content">
+					<p>
+						<strong>IUT de Troyes – Première année BUT MMI</strong> (Sept. 2024) <br>
+						Ma première année en <strong>BUT MMI</strong> est un véritable défi stimulant, où je développe mes compétences en <strong>création numérique, développement web et communication digitale</strong>. 
+						Chaque projet nourrit ma curiosité pour l’innovation et m’apprend à collaborer avec des personnes aux talents variés.
+					</p>
+					<p>
+						<strong>Groupe Saint Joseph - La Salle Troyes – Bac STMG</strong> (Sept. 2022 - Juil. 2024) <br>
+						Ancien étudiant en <strong>STMG</strong>, j’ai acquis des compétences en <strong>gestion, management, analyse financière et communication</strong>. Ce cursus m’a permis de mieux comprendre le fonctionnement des entreprises et la gestion des équipes.
+					</p>
+				</div>
+			</section>
+			
+			<section>
+				<h2 class="section-title">Skills</h2>
+				<div class="content">
+					<p><strong>Logiciels :</strong> DaVinci Resolve, Canva, Audacity, Adobe Creative Suite, Microsoft Office,</p>
+					<p><strong>Développement :</strong> HTML, CSS, JS, PHP</p>
+					<p><strong>Compétences :</strong> Gestion de communauté, Création d’événements, Réseaux sociaux, Intelligence de marché</p>
+					<p><strong>Soft skills :</strong> Autonomie, Travail d’équipe, Créativité, Communication, Polyvalence</p>
+				</div>
+			</section>
+			
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>

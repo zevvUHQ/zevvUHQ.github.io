@@ -1,5 +1,5 @@
 ---  
-title: Affiche Victoire Team Xeno - Tournoi Valorant  
+title: Victoire Team Xeno - Tournoi Valorant  
 publishDate: 2024-07-03 22:20:00  
 img: /assets/XenoWin.png  
 img_alt: Affiche de la victoire de la Team Xeno dans un tournoi Valorant, avec Clove en tête d'affiche et un cash prize de 50€.  

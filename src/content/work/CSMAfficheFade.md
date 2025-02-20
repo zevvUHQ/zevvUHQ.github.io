@@ -1,5 +1,5 @@
 ---  
-title: Affiche Nouveau Membre CSM Esport - Valorant (Fade)  
+title: Affiche CSM Esport - Valorant
 publishDate: 2024-07-03 22:20:00  
 img: /assets/CSMFade.png  
 img_alt: Affiche pour l'intégration de Fade dans la CSM Esport, avec des éléments graphiques représentant l'univers mystérieux et intrigant de ce personnage de Valorant.  

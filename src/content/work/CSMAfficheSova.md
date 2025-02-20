@@ -1,5 +1,5 @@
 ---  
-title: Affiche Nouveau Membre CSM Esport - Valorant (Sova)  
+title: Affiche CSM Esport - Valorant
 publishDate: 2024-07-03 22:20:00  
 img: /assets/CSMSova.png  
 img_alt: Affiche pour l'intégration de Sova dans la CSM Esport, avec des éléments graphiques personnalisés mettant en avant le personnage dans une ambiance Valorant.  

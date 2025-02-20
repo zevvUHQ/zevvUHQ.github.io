@@ -1,5 +1,5 @@
 ---  
-title: Affiche Nouveau Membre CSM Esport - Valorant (Cypher)  
+title: Affiche CSM Esport - Valorant
 publishDate: 2024-07-03 22:20:00  
 img: /assets/CSMCypher.png  
 img_alt: Affiche pour l'intégration de Cypher dans la CSM Esport, avec une ambiance Valorant et des éléments graphiques adaptés au personnage.  

@@ -1,5 +1,5 @@
 ---  
-title: Affiche Nouveau Membre CSM Esport - Valorant (Skye)  
+title: Affiche CSM Esport - Valorant
 publishDate: 2024-07-03 22:20:00  
 img: /assets/CSMSkye.png  
 img_alt: Affiche pour l'intégration de Skye dans la CSM Esport, mettant en avant le personnage avec une ambiance Valorant et des éléments graphiques personnalisés.  

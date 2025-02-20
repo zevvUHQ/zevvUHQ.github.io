@@ -1,5 +1,5 @@
 ---
-title: Bienvenue Kuy - Responsable Valorant Team CSM  
+title: Kuy - Responsable Valorant 
 publishDate: 2024-07-03 22:20:00  
 img: /assets/CSMResponsable.png  
 img_alt: Affiche annonçant l'arrivée de Kuy en tant que responsable Valorant de la Team CSM, avec un design dynamique et professionnel.  

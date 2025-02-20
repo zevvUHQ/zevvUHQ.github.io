@@ -1,5 +1,5 @@
 ---  
-title: Bienvenue Wieste - Assistant Coach Team CSM  
+title: Wieste - Assistant Coach 
 publishDate: 2024-07-03 22:20:00  
 img: /assets/CSMAssistant.png  
 img_alt: Affiche annonçant l'arrivée de Wieste en tant qu'assistant coach de la Team CSM, avec un design dynamique et professionnel.  

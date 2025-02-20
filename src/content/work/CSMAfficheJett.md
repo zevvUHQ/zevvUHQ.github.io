@@ -1,5 +1,5 @@
 ---  
-title: Affiche Nouveau Membre CSM Esport - Valorant (Jett)  
+title: Affiche CSM Esport - Valorant
 publishDate: 2024-07-03 22:20:00  
 img: /assets/CSMJett.png  
 img_alt: Affiche pour l'intégration de Jett dans la CSM Esport, avec une ambiance dynamique et des éléments graphiques adaptés à son personnage de Valorant.  

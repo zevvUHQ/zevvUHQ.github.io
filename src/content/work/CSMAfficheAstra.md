@@ -1,5 +1,5 @@
 ---  
-title: Affiche Nouveau Membre CSM Esport - Valorant (Astra) 
+title: Membre CSM Esport - Valorant 
 publishDate: 2024-07-03 22:20:00  
 img: /assets/CSMAstra.png  
 img_alt: Affiche pour l'intégration d'un nouveau membre dans la CSM Esport, mettant en avant le personnage Astra de Valorant avec des éléments graphiques personnalisés.  

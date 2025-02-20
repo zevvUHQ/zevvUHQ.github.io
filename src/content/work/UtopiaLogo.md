@@ -1,5 +1,5 @@
 ---  
-title: Logo Utopia - Cinéma Pont Saint Marie  
+title: Logo Utopia - Cinéma Pont St Marie  
 publishDate: 2024-11-30 22:19:00  
 img: /assets/UtopiaLogo.png  
 img_alt: Logo Utopia pour le cinéma Pont Saint Marie, conçu avec une charte graphique réfléchie pour refléter les valeurs du cinéma.  

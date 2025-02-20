@@ -1,5 +1,5 @@
 ---  
-title: Affiche Instagram Dominic Solanke - Masque Obito  
+title: Affiche Dominic Solanke - Masque Obito  
 publishDate: 2024-04-03 22:20:00  
 img: /assets/Akatsuki.png  
 img_alt: Affiche stylisée de Dominic Solanke portant un masque d'Obito de l'Akatsuki, réalisée sur Canva, avec des couleurs dynamiques inspirées de sa personnalité.  
